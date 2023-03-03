@@ -10,7 +10,7 @@ This covid-19 data was sourced from https://ourworldindata.org/covid-deaths star
 # SUMMARY OF FINDINGS
 According to the insights derived from the covid data :
 
-## The total covid-19 cases confirmed was 630,711,800 cases
+. The total covid-19 cases confirmed was 630,711,800 cases
 
 The total deaths recorded was 6,561,569
 
