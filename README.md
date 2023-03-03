@@ -11,9 +11,17 @@ This covid-19 data was sourced from https://ourworldindata.org/covid-deaths star
 According to the insights derived from the covid 19 data:
 
 The total covid-19 cases confirmed was 673,459,849 cases
+
 The total deaths recorded was 6,833,022
+
 The global percentage death was 1.015 percent
+
 United States, India, France, and Brazil had the total number of confirmed cases.
+
 United States, Brazil, India, Russia and Mexico recorded the highest deaths.
+
 Europe had the highest total cases per continent, followed by Asia, North America, and South America.
+
 Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America.
+
+# DASHBOARD REPORT
