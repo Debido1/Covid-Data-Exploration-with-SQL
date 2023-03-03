@@ -16,7 +16,7 @@ The total deaths recorded was 6,833,022
 
 The global percentage death was 1.015 percent
 
-United States, India, France, and Brazil had the total number of confirmed cases.
+United States, India, France, and Germany had the highest number of total cases
 
 United States, Brazil, India, Russia and Mexico recorded the highest deaths.
 
